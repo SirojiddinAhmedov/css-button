@@ -13,7 +13,7 @@ input{
     border: none;
     transition: ease .1s linear;
 }
-input:hover{
+input:active{
     background-color: aliceblue;
     color: #51a8f4;
     border: 4px solid ;
